@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a773d73874d869b4d92f99c883561e02, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  WeaponPrefab: {fileID: 7834829583139716528, guid: 8bc20f5fb7535684090e4d48a5cd6896, type: 3}
+  Damage: 1
+  FireRate: 0.2
+  HitVFXPrefab: {fileID: 7816607296105077162, guid: 12a51a19e295a9a42ae0d4dfa2a23040, type: 3}
+  IsAutomatic: 0
+  CanZoom: 0
+  ZoomAmount: 10
+  defaultFOV: 40
+  RotationSpeed: 0.3
+  MagazineSize: 12
