@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|c:\\game engine unity\\world\u0027s best game developer\\sharp shooter\\assets\\imported assets\\starterassets\\firstpersoncontroller\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\imported assets\\starterassets\\firstpersoncontroller\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|c:\\game engine unity\\world\u0027s best game developer\\sharp shooter\\assets\\scripts\\enemies\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\assets\\scripts\\enemies\\enemy health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|c:\\game engine unity\\world\u0027s best game developer\\sharp shooter\\assets\\scripts\\enemies\\enemy health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\assets\\scripts\\enemies\\spawn gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\spawn gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|c:\\game engine unity\\world\u0027s best game developer\\sharp shooter\\assets\\scripts\\enemies\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\assets\\scripts\\misc\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|c:\\game engine unity\\world\u0027s best game developer\\sharp shooter\\assets\\scripts\\misc\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\assets\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|c:\\game engine unity\\world\u0027s best game developer\\sharp shooter\\assets\\scripts\\player\\player health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|c:\\game engine unity\\world\u0027s best game developer\\sharp shooter\\assets\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\assets\\scripts\\enemies\\robots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\robots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|c:\\game engine unity\\world\u0027s best game developer\\sharp shooter\\assets\\scripts\\pickups\\medkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\medkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\assets\\scripts\\pickups\\ammo pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\ammo pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|c:\\game engine unity\\world\u0027s best game developer\\sharp shooter\\assets\\scripts\\player\\weapon inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28456DE7-E789-D221-6A16-1652E2666303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\weapon inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,100 +43,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FirstPersonController.cs",
-              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Imported Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
-              "RelativeDocumentMoniker": "Assets\\Imported Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
-              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Imported Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
-              "RelativeToolTip": "Assets\\Imported Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T11:13:12.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Explosion.cs",
-              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Enemies\\Explosion.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Explosion.cs",
-              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Enemies\\Explosion.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Explosion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T11:06:10.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Robots.cs",
-              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Enemies\\Robots.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Robots.cs",
-              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Enemies\\Robots.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Robots.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T12:11:01.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pickup.cs",
-              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Pickups\\Pickup.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Pickups\\Pickup.cs",
-              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Pickups\\Pickup.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Pickups\\Pickup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:33:05.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Ammo Pickup.cs",
-              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Pickups\\Ammo Pickup.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Pickups\\Ammo Pickup.cs",
-              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Pickups\\Ammo Pickup.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Pickups\\Ammo Pickup.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:32:57.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Game Manager.cs",
-              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Misc\\Game Manager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Game Manager.cs",
-              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Misc\\Game Manager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Misc\\Game Manager.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:31:17.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Spawn Gate.cs",
-              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Enemies\\Spawn Gate.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Spawn Gate.cs",
-              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Enemies\\Spawn Gate.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Spawn Gate.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:30:17.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Enemy Health.cs",
               "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Enemies\\Enemy Health.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy Health.cs",
               "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Enemies\\Enemy Health.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy Health.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAACsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:29:35.942Z"
+              "WhenOpened": "2025-09-15T07:32:26.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game Manager.cs",
+              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Misc\\Game Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Game Manager.cs",
+              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Misc\\Game Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Misc\\Game Manager.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:30:54.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player Health.cs",
+              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Player\\Player Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Health.cs",
+              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Player\\Player Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player Health.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:22:12.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weapon Inventory.cs",
+              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Player\\Weapon Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Weapon Inventory.cs",
+              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Player\\Weapon Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Weapon Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:20:31.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Medkit.cs",
+              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Pickups\\Medkit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pickups\\Medkit.cs",
+              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Pickups\\Medkit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pickups\\Medkit.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:19:31.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Pickups\\Pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pickups\\Pickup.cs",
+              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Pickups\\Pickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pickups\\Pickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:19:07.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Enemies\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Projectile.cs",
+              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Sharp Shooter\\Assets\\Scripts\\Enemies\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Projectile.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:18:29.235Z",
+              "EditorCaption": ""
             }
           ]
         }

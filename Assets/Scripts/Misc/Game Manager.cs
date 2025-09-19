@@ -1,21 +1,46 @@
+using System.Collections.Generic;
 using TMPro;
-using UnityEditor.Rendering;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
 public class GameManager : MonoBehaviour
 {
+    [System.Serializable]
+    public class EnemyMulList
+    {
+        public int count;
+        public float mul;
+    }
+
     [SerializeField] TMP_Text enemiesLeftText;
     [SerializeField] GameObject youWinText;
+
+    [SerializeField] EnemyMulList[] enemyMulList;
+
+    Dictionary<int, float> enemyMulStat = new Dictionary<int, float>(); 
 
     int enemiesLeft;
 
     const string ENEMIES_LEFT_STRING = "Enemies Left: ";
 
+    private void Awake()
+    {
+        foreach(var mulStat in enemyMulList)
+        {
+            enemyMulStat.Add(mulStat.count, mulStat.mul);
+        }
+    }
+
     public void AdjustEnemiesLeft(int amount)
     {
         enemiesLeft += amount;
         enemiesLeftText.text = ENEMIES_LEFT_STRING + enemiesLeft.ToString();
+
+        if(enemyMulStat.ContainsKey(enemiesLeft))
+        {
+            EnemyHealth.AdjustMultiplier(enemyMulStat[enemiesLeft]);
+        }
        
         if(enemiesLeft < 4)
         {

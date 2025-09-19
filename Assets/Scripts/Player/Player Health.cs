@@ -13,7 +13,7 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] Image[] shieldBar;
     [SerializeField] GameObject gameOverContainer;
 
-    int currentHealth;
+    float currentHealth;
     int gameOverVirtualCameraPriority = 20;
 
     void Awake()
@@ -32,8 +32,30 @@ public class PlayerHealth : MonoBehaviour
             PlayerGameOver();
         }
     }
+    
+    public void TakeDamage(float amount)
+    {
+        currentHealth -= amount;
+        AdjustShieldUI();
+
+        if (currentHealth <= 0)
+        {
+            PlayerGameOver();
+        }
+    }
 
     public void GainHealth(int amount)
+    {
+        currentHealth += amount;
+        AdjustShieldUI();
+
+        if(currentHealth > health)
+        {
+            currentHealth = health;
+        }
+    }
+    
+    public void GainHealth(float amount)
     {
         currentHealth += amount;
         AdjustShieldUI();
